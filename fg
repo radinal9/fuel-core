@@ -1,0 +1,10 @@
+$ ./target/debug/fuel-core run --help
+
+USAGE:
+    fuel-core run [OPTIONS]
+
+OPTIONS:
+        --chain <CHAIN_CONFIG>
+            Specify either an alias to a built-in configuration or filepath to a JSON file [default:
+            local_testnet]
+        ...
